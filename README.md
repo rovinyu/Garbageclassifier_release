@@ -12,30 +12,29 @@
 ## 使用界面
 
 1. 主界面
-<div align=center><img width="540" height="360" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/main.png"/></div>
+<div align=center><img width="360" height="540" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/main.png"/></div>
 
 2. 可回收物列表
-<div align=center><img width="540" height="360" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/recyclable.png"/></div>
+<div align=center><img width="360" height="540" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/recyclable.png"/></div>
 
 3. 干垃圾列表
-<div align=center><img width="540" height="360" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/residual.png"/></div>
+<div align=center><img width="360" height="540" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/residual.png"/></div>
 
 4. 湿垃圾列表
-<div align=center><img width="540" height="360" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/household.png"/></div>
+<div align=center><img width="360" height="540" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/household.png"/></div>
 
 5. 有害垃圾列表
-<div align=center><img width="540" height="360" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/hazardous.png"/></div>
+<div align=center><img width="360" height="540" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/hazardous.png"/></div>
 
 6. 输入识别结果示例
-<div align=center><img width="540" height="360" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/input_identifying.png"/></div>
+<div align=center><img width="360" height="540" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/input_identifying.png"/></div>
 
 7. 拍照识别结果示例
-<d
-iv align=center><img width="540" height="360" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/capture_identifying.png"/></div>
+<div align=center><img width="360" height="540" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/capture_identifying.png"/></div>
 
 8. 图片识别结果实例
-<div align=center><img width="540" height="360" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/photo_identifying.png"/></div>
+<div align=center><img width="360" height="540" src="https://github.com/rovinyu/Garbageclassifier_release/blob/master/png/photo_identifying.png"/></div>
 
 ## 致谢
   感谢复旦大学田红军老师的指点和帮助，感谢上海青少年科学社和永昌私立学习的大力支持。
-  另外，您在使用过程中遇到任何问题或者有好的建议，随时与我们联系：[ytg@sina.com](email:ytg@sina.com)
+  另外，您在使用过程中遇到任何问题或者有好的建议，随时与我们联系：(Email:ytg@sina.com)
